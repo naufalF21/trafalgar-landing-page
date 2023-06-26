@@ -11,7 +11,7 @@ export default function Home() {
 					and online <br />
 					for everyone
 				</p>
-				<button className="border px-10 py-3 rounded-full bg-[#458FF6] font-bold text-white text-lg mt-12">
+				<button className="border px-10 py-3 rounded-full bg-[#458FF6] font-bold text-white text-lg mt-12 hover:bg-[#3977cd]">
 					Consult today
 				</button>
 			</div>
